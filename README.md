@@ -1,4 +1,3 @@
-
 # Battery Babu
 
 **Camera‑based alert that pings your phone if your Royal Enfield’s lights are left ON after parking(i.e, you forgot to turn the keys off).**
